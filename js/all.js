@@ -1184,8 +1184,8 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Title","1. 背景世界觀","2. 創建角色","A topic without number","1.1. 這個世界怎麼了？","1.2. 玩家是怎麼出現的？","1.3. 規源是什麼？","2.1. 如何創立角色？","2.2. 背景","2.3. 種族","2.4. 職業","1.3.1. 失落的圖書館","2.4.1. 職業特殊改動"],
-    DREX_NODE_LINKS: ["index.htm","world view.htm","create.htm","a_topic_without_number.htm","what happened.htm","how to appear.htm","what is quiyyuar.htm","how to create.htm","background.htm","race.htm","profession.htm","quiyyuar\'s library.htm","profession pk.htm"],
+    DREX_NODE_NAMES: ["Title","1. 背景世界觀","2. 創建角色","遊玩流程紀錄","1.1. 這個世界怎麼了？","1.2. 玩家是怎麼出現的？","1.3. 規源是什麼？","2.1. 如何創立角色？","2.2. 背景","2.3. 種族","2.4. 職業","1.3.1. 失落的圖書館","2.4.1. 職業特殊改動"],
+    DREX_NODE_LINKS: ["index.htm","world view.htm","create.htm","list.htm","what happened.htm","how to appear.htm","what is quiyyuar.htm","how to create.htm","background.htm","race.htm","profession.htm","quiyyuar\'s library.htm","profession pk.htm"],
     DREX_NODE_CHILD_START: [1,4,7,11,11,11,11,12,12,12,12,13,13],
     DREX_NODE_CHILD_END: [4,7,11,11,11,11,12,12,12,12,13,13,13],
     DREX_MENU_TYPE: 2,
